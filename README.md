@@ -1,6 +1,6 @@
 # RNAseq Analysis Repository
 
-Welcome to the repository for the analysis of the RNAseq dataset presented in the paper by Arezoo et al, 2024.
+Welcome to the repository for the analysis of the RNAseq datasets.
 
 ## Overview
 
